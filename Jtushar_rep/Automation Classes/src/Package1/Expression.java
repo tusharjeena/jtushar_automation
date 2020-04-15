@@ -22,6 +22,7 @@ public class Expression {
 	public void divd(int r, int s) {
 		int t = r/s;
 		System.out.println("The Final Result is: "+t);
+		System.out.println("Tushar New Committ");
 	}
 	
 	public static void main(String[] args) {
